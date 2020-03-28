@@ -1,0 +1,14 @@
+.categorynav {
+    display: inline-flex;
+    align-items: center;
+    height: min-content;
+    background-color: white;
+}
+
+nav li {
+    flex: 1;
+    list-style: none;
+    color: black;
+    letter-spacing: 0.2em;
+    cursor: pointer;
+}
